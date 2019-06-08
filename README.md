@@ -1,6 +1,6 @@
 # React Typescript Code Snippets
 This is my personal selection of code snippets I often use, when working with React in Typescript. Feel free to clone,
-add, fork or share thiese.
+add, fork or share it.
 
 ## What is it exactly?
 This json document contains code snippets you can use in Visual Studio Code for quick typing generic constructs of code
